@@ -1,0 +1,10 @@
+===== Key Lengths =====
+Bit length of p: 512
+Bit length of q: 256
+Bit length of alpha: 509
+Bit length of delta (private): 251
+Bit length of xi (private): 254
+Bit length of nu (public): 512
+Bit length of chi (public): 511
+Bit length of skh (private): 510
+========================

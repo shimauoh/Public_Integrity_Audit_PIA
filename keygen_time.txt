@@ -1,0 +1,4 @@
+Lambda: 256
+TotalKeyGenTime(ns): 244469700
+SecretKeyGenTime(ns): 11800
+PublicKeyGenTime(ns): 132200

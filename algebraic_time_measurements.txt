@@ -1,0 +1,3 @@
+Total signature time: 216.9897 ms
+Average per block: 2.0665685714285713 ms
+Signature size: 192 bits (24 bytes)

@@ -1,0 +1,7 @@
+Signature Generation Time: 156906200 ns
+Signature Generation Time: 156.9062 ms
+Average Signature Generation Time per Block: 1494344.761904762 ns
+Average Signature Generation Time per Block: 1.4943447619047618 ms
+Block Size: 512 bytes
+Tag Size (W, gamma): 384 bits
+Security parameter (Lambda): 256 bits

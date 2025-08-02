@@ -1,0 +1,17 @@
+
++---------------------------------------------+
+|               Benchmark Result              |
++---------------------------+-----------------+
+| Block size (bytes)        |            1024 |
+| Security parameter λ      |             256 |
+| Total blocks              |              53 |
++---------------------------+-----------------+
+| Key generation time (ms)  |          318.63 |
+| Signature gen time (ms)   |          111.96 |
+| Avg time per block (ms)   |          2.1125 |
+| CSP proof gen time (ms)   |          8.1134 |
+| TPA verification time(ms) |          0.0125 |
++---------------------------+-----------------+
+| Key size p (bits)         |             512 |
+| Key size q (bits)         |             256 |
++---------------------------------------------+

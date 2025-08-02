@@ -1,0 +1,13 @@
+Metric,Basic,Enhanced,Algebraic
+Security parameter λ,192,192,192
+Block size (bytes),1024,1024,1024
+Total blocks,53,53,53
+Key generation time (ms),439.69,439.69,7.60
+Signature gen time (ms),7.75,40.80,210.72
+Avg time per block (ms),0.1462,0.7698,3.9759
+CSP proof gen time (ms),0.1933,0.1455,2.8305
+TPA verification time (ms),0.0368,0.0237,2.5020
+Schnorr tag size (bits),384,384,
+Schnorr tag size (bytes),48,48,
+Algebraic tag size (bits),,,192
+Algebraic tag size (bytes),,,24

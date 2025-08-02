@@ -1,0 +1,161 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "AlgebraicSignatureTest",
+            "request": "launch",
+            "mainClass": "AlgebraicSignatureTest",
+            "projectName": "SchnorrSignature_2c4bd320"
+        },
+        {
+            "type": "java",
+            "name": "AlgebraicSignatureKeyGen",
+            "request": "launch",
+            "mainClass": "AlgebraicSignatureKeyGen",
+            "projectName": "SchnorrSignature_2c4bd320"
+        },
+        {
+            "type": "java",
+            "name": "AlgebraicSignatureKeyGen",
+            "request": "launch",
+            "mainClass": "algebric_Signature.AlgebraicSignatureKeyGen",
+            "projectName": "SchnorrSignature_2c4bd320"
+        },
+        {
+            "type": "java",
+            "name": "BenchmarkSchnorr",
+            "request": "launch",
+            "mainClass": "BenchmarkSchnorr",
+            "projectName": "SchnorrSignature_2c4bd320"
+        },
+        {
+            "type": "java",
+            "name": "EnhancedVerificationTest",
+            "request": "launch",
+            "mainClass": "EnhancedVerificationTest",
+            "projectName": "SchnorrSignature_2c4bd320"
+        },
+        {
+            "type": "java",
+            "name": "KeyGenerationTest",
+            "request": "launch",
+            "mainClass": "KeyGenerationTest",
+            "projectName": "SchnorrSignature_2c4bd320"
+        },
+        {
+            "type": "java",
+            "name": "EnhancedSchnorrFullWorkflow",
+            "request": "launch",
+            "mainClass": "EnhancedSchnorrFullWorkflow",
+            "projectName": "SchnorrSignature_2c4bd320"
+        },
+        {
+            "type": "java",
+            "name": "EnhancedSchnorrVerificationTest",
+            "request": "launch",
+            "mainClass": "EnhancedSchnorrVerificationTest",
+            "projectName": "SchnorrSignature_2c4bd320"
+        },
+        {
+            "type": "java",
+            "name": "EnhancedSchnorrSignatureTest",
+            "request": "launch",
+            "mainClass": "EnhancedSchnorrSignatureTest",
+            "projectName": "SchnorrSignature_2c4bd320"
+        },
+        {
+            "type": "java",
+            "name": "SchnorrParameterGenerator",
+            "request": "launch",
+            "mainClass": "SchnorrParameterGenerator",
+            "projectName": "SchnorrSignature_2c4bd320"
+        },
+        {
+            "type": "java",
+            "name": "KeyGenerator",
+            "request": "launch",
+            "mainClass": "KeyGenerator",
+            "projectName": "SchnorrSignature_2c4bd320"
+        },
+        {
+            "type": "java",
+            "name": "KeyReader",
+            "request": "launch",
+            "mainClass": "KeyReader",
+            "projectName": "SchnorrSignature_2c4bd320"
+        },
+        {
+            "type": "java",
+            "name": "VerificationMain",
+            "request": "launch",
+            "mainClass": "VerificationMain",
+            "projectName": "SchnorrSignature_2c4bd320"
+        },
+        {
+            "type": "java",
+            "name": "Verification_test",
+            "request": "launch",
+            "mainClass": "Verification_test",
+            "projectName": "SchnorrSignature_2c4bd320"
+        },
+        {
+            "type": "java",
+            "name": "Vverification_test",
+            "request": "launch",
+            "mainClass": "Vverification_test",
+            "projectName": "SchnorrSignature_2c4bd320"
+        },
+        {
+            "type": "java",
+            "name": "VerificationTest",
+            "request": "launch",
+            "mainClass": "VerificationTest",
+            "projectName": "SchnorrSignature_2c4bd320"
+        },
+        {
+            "type": "java",
+            "name": "SchnorrSignatureVerification",
+            "request": "launch",
+            "mainClass": "SchnorrSignatureVerification",
+            "projectName": "SchnorrSignature_2c4bd320"
+        },
+        {
+            "type": "java",
+            "name": "SchnorrSignatureVerifier",
+            "request": "launch",
+            "mainClass": "SchnorrSignatureVerifier",
+            "projectName": "SchnorrSignature_2c4bd320"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "Main",
+            "projectName": "SchnorrSignature_2c4bd320"
+        },
+        {
+            "type": "java",
+            "name": "BasicSchnorrSignatureTest",
+            "request": "launch",
+            "mainClass": "BasicSchnorrSignatureTest",
+            "projectName": "SchnorrSignature_2c4bd320"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "SchnorrSignatureTest",
+            "request": "launch",
+            "mainClass": "SchnorrSignatureTest",
+            "projectName": "SchnorrSignature_2c4bd320"
+        }
+    ]
+}

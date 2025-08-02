@@ -1,0 +1,12 @@
+Key Generation Time: 263650500 ns
+Key Generation Time: 263.6505 ms
+========================================
+Key Generation Time: 167452300 ns
+Key Generation Time: 167.4523 ms
+========================================
+Key Generation Time: 302425600 ns
+Key Generation Time: 302.4256 ms
+========================================
+Key Generation Time: 143305200 ns
+Key Generation Time: 143.3052 ms
+========================================
